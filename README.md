@@ -1,2 +1,2 @@
 # virus-analyzer
-Binary analysis tool to detect computer virus written in python script
+Binary analysis tool used for detecting computer virus written in python script
